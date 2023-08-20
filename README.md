@@ -34,3 +34,44 @@ For CSV feeds, the following fields are required:
 10. Find the revenue generated due to lanaguge, merchant, product name
 
 11. ![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/5debb2a4-7d3e-46fe-a982-3a4840465308)
+
+Find the total revenue generated due to languages conversion made in 2019.
+
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/95f6a389-130a-4e99-aaa1-11c1c24d7376)
+
+Top 10 user by 10 languages
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/a6c5962d-926f-4318-a266-48500fdc25a4)
+
+
+Top 10 users in 2019
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/b6786832-8a7f-4051-8a46-1f06ae26256d)
+
+Find the total revenue generated due to country
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/1d4c0937-48a1-4cba-9ee3-7db7812d7e42)
+
+User engagement
+This KPI measures the overall engagement of users with the localized
+help centers, indicating the level of interest and utilization across
+different languages
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/ac4745b1-1329-4551-827f-48fe9556db78)
+
+
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/67384608-5232-4170-953e-b0787fc9f8ae)
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/002f0e15-1792-49a4-9820-7a25cf416eb7)
+
+
+![image](https://github.com/Arooba-Khokhar/Salesforce-Data-Analyst/assets/14163981/21e1e66e-6cb1-46b2-a771-cc485c3783ca)
+
+
+
+
+
+
+
